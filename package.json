@@ -1,0 +1,21 @@
+{
+  "name": "nextreduxapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.3.1",
+    "next": "9.0.2",
+    "next-routes": "^1.4.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-redux": "^7.1.0",
+    "reactstrap": "^8.0.1",
+    "redux": "^4.0.4"
+  }
+}
